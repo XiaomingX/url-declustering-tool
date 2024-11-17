@@ -1,2 +1,2 @@
-# ai-decluster-urls
-用于黑盒扫描器做URL去重复
+# DeclutterURL
+declutters url lists for crawling/pentesting
