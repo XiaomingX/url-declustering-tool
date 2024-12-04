@@ -44,7 +44,7 @@
 
 1. 运行脚本并查看示例输入：
    ```bash
-   python3 decluster_urls.py
+   python3 decluster_urls_optimized.py
    ```
 2. 修改 `main()` 函数中的 `input_urls` 列表，以测试自定义的 URL。
 
